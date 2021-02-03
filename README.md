@@ -1,1 +1,2 @@
-# linux-wallpapers
+# Linux Wallpapers
+A collection of linux wallpapers collected from the internet. All rights go to the artists that created these wallpapers. I'm just trying to spread these wallpapers. If I'm breaking any rules I'll take down the repository or the images that conflict with for example copyright laws. I do not know the name of the artists that made these wallpapers. Please contact me if you want your wallpaper taken down.
